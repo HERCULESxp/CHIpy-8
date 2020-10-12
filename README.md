@@ -9,7 +9,7 @@ pra rodar o jogo basta alterar o nome do jogo no arquivo main.py(por enquanto)
 
 # Como Jogar?
 MAPEAMENTO ORIGINAL:
-1 2 3 C
+\n1 2 3 C
 4 5 6 D
 7 8 9 E
 A 0 B F
